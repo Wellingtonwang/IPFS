@@ -1,2 +1,4 @@
 # IPFS
 Inter Planetary File System(IPFS), A peer-to-peer hypermedia protocol, with its decentralized design model.
+
+Inter Planetary File System(IPFS), A peer-to-peer hypermedia protocol, with its decentralized design model, is expected to become the next-generation Internet standard that replaces the http protocol. We lasted for about a month to obtain video network data from Dtube, Youtube and other websites, and then processed and analyzed the data in various types. We found that DTube has more Youtube redirected videos than other types. DTube does not advertise different content based on geo-location. We put other results of exploratory research in 4 Evaluation and 5 Conclusion.![image](https://user-images.githubusercontent.com/63481658/200245404-b472f624-5c2b-4448-9ee9-3c10ed743ce5.png)
